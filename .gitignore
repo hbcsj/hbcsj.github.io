@@ -81,3 +81,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+### 구름 IDE ###
+goorm.manifest
